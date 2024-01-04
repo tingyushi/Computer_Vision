@@ -1,2 +1,2 @@
-# Computer_Vision
+# Computer Vision
 Some code about computer vision
