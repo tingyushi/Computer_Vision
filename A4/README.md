@@ -1,8 +1,8 @@
 ## Topics
 
-* Machine Learning 
- - KNN
- - PCA+KNN
+* Machine Learning
+ * KNN
+ * PCA+KNN
  
 * Deep Learning
  - CNN
